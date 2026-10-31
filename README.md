@@ -43,6 +43,9 @@ Developed an interactive dashboard to present customer and purchasing insights t
 
 The dashboard focuses on customer demographics, purchasing behavior, product performance, discounts, subscriptions, and revenue-related trends.
 
+<img width="1882" height="926" alt="image" src="https://github.com/user-attachments/assets/eca23512-e956-41b7-8f4e-c492163dda12" />
+
+
 ## 💼 Business Questions
 
 The analysis explores:
